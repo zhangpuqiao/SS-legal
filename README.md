@@ -14,6 +14,11 @@
 - Privacy Policy：https://zhangpuqiao.github.io/SS-legal/silencetrimmer/en/privacy/
 - Terms of Use：https://zhangpuqiao.github.io/SS-legal/silencetrimmer/en/terms/
 
+### 日本語
+
+- プライバシーポリシー：https://zhangpuqiao.github.io/SS-legal/silencetrimmer/ja/privacy/
+- 利用規約：https://zhangpuqiao.github.io/SS-legal/silencetrimmer/ja/terms/
+
 ## 定时隐藏 / FocusHide / フォーカスハイド
 
 ### 中文
