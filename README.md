@@ -35,3 +35,21 @@
 
 - プライバシーポリシー：https://zhangpuqiao.github.io/SS-legal/ja/privacy/
 - 利用規約：https://zhangpuqiao.github.io/SS-legal/ja/terms/
+
+
+## 试用雷达 / Trial Radar
+
+### 简体中文
+
+- 隐私政策：https://zhangpuqiao.github.io/SS-legal/trialradar/privacy/
+- 用户协议：https://zhangpuqiao.github.io/SS-legal/trialradar/terms/
+
+### English
+
+- Privacy Policy: https://zhangpuqiao.github.io/SS-legal/trialradar/en/privacy/
+- Terms of Use: https://zhangpuqiao.github.io/SS-legal/trialradar/en/terms/
+
+### 日本語
+
+- プライバシーポリシー：https://zhangpuqiao.github.io/SS-legal/trialradar/ja/privacy/
+- 利用規約：https://zhangpuqiao.github.io/SS-legal/trialradar/ja/terms/
