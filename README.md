@@ -53,3 +53,7 @@
 
 - プライバシーポリシー：https://zhangpuqiao.github.io/SS-legal/trialradar/ja/privacy/
 - 利用規約：https://zhangpuqiao.github.io/SS-legal/trialradar/ja/terms/
+
+### 支持页面
+
+- Support & Help：https://zhangpuqiao.github.io/SS-legal/trialradar/support/
